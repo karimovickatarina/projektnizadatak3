@@ -633,6 +633,7 @@ header.header-active .navbar a{
     justify-content: center;
     flex-wrap: wrap;
     padding-top: 1rem;
+    padding-bottom: -10rem;
 }
 
 .mojvideo .row_video .image {
