@@ -197,6 +197,7 @@ header.header-active .navbar a{
 }
 
 .footer {
+    margin-top: 5rem;
     color:#eee;
     background:#111;
     text-align: center;
